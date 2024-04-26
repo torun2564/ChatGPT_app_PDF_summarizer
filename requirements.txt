@@ -2,4 +2,3 @@ streamlit==1.24.0
 langchain==0.1.16
 PyPDF2==3.0.1
 qdrant_client
-glob
